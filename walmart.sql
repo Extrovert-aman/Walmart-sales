@@ -280,3 +280,5 @@ ORDER BY total_tax;
 
 -- --------------------------------------------------------------------
 -- --------------------------------------------------------------------
+-- learn from code with prince 
+https://youtu.be/Qr1Go2gP8fo?si=fStgSvJQAH3EuXJV
